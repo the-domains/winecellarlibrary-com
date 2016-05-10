@@ -1,0 +1,28 @@
+name: winecellarlibrary.com
+favicon: null
+layout_spectrum: 0.4545338246971369
+typography_spectrum: 0.2921453295275569
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4953574922401458
+  lightness: 0.17000483977608383
+  saturation: 0.20327016664668918
+  rhythmicContrast: 0.8665627129375935
+purpose: []
