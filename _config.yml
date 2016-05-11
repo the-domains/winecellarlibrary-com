@@ -1,28 +1,40 @@
-name: winecellarlibrary.com
-favicon: null
-layout_spectrum: 0.4545338246971369
-typography_spectrum: 0.2921453295275569
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.4545338246971369
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.2032701666466892
+  brandStrength: 0.4953574922401458
+  rhythmicContrast: 0.8665627129375935
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.4953574922401458
-  lightness: 0.17000483977608383
-  saturation: 0.20327016664668918
-  rhythmicContrast: 0.8665627129375935
+  lightness: 0.1700048397760838
 purpose: []
+favicon: null
+name: winecellarlibrary.com
+typography_spectrum: 0.2921453295275569
